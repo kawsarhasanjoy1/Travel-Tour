@@ -1,0 +1,17 @@
+[
+  {
+    "image": "https://i.ibb.co/2FVGjHX/service.jpg",
+    "service": "Tour Guide",
+    "description": "Get our tour guide for the best experience."
+  },
+  {
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/travelbird-booking-service02.jpg",
+    "service": "Easy Booking",
+    "description": "Booking your tickets very easy way."
+  },
+  {
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/travelbird-booking-service03.jpg",
+    "service": "Always Support",
+    "description": "Our customer support team always active."
+  }
+]

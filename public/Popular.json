@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/apartment-sport-city.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) Sports City 5 Star Quality",
+    "Aed": "90.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 2,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/DIFC-4-start-quality-hotel.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) DIFC 4 star Quality",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  },
+  {
+    "id": 3,
+    "location": "United States, Chicago",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/centipede-tour.jpg",
+    "days": 3,
+    "hotelQuality": "Centipede Tour – Guided Arizona Desert Tour by ATV",
+    "Aed": "50.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 4,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/modern-design-building.jpg",
+    "days": 3,
+    "hotelQuality": "Modern Design Building with Huge Ferris Wheel Blue Waters Island",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  },
+  {
+    "id": 5,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/apartment-sport-city.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) Sports City 5 Star Quality",
+    "Aed": "90.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 6,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/DIFC-4-start-quality-hotel.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) DIFC 4 star Quality",
+    "Aed": "50.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 7,
+    "location": "United States, Chicago",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/centipede-tour.jpg",
+    "days": 3,
+    "hotelQuality": "Centipede Tour – Guided Arizona Desert Tour by ATV",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  },
+  {
+    "id": 8,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/modern-design-building.jpg",
+    "days": 3,
+    "hotelQuality": "Modern Design Building with Huge Ferris Wheel Blue Waters Island",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  },
+  {
+    "id": 9,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/apartment-sport-city.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) Sports City 5 Star Quality",
+    "Aed": "90.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 10,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/DIFC-4-start-quality-hotel.jpg  ",
+    "days": 3,
+    "hotelQuality": "3 Night Stay (Apartment) DIFC 4 star Quality",
+    "Aed": "50.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 11,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/modern-design-building.jpg",
+    "days": 3,
+    "hotelQuality": "Modern Design Building with Huge Ferris Wheel Blue Waters Island",
+    "Aed": "50.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 12,
+    "location": "United States, Chicago",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/centipede-tour.jpg",
+    "days": 3,
+    "hotelQuality": "Centipede Tour – Guided Arizona Desert Tour by ATV",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  },
+  {
+    "id": 13,
+    "location": "Thailand,Bangkok",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/modern-design-building.jpg",
+    "days": 3,
+    "hotelQuality": "Modern Design Building with Huge Ferris Wheel Blue Waters Island",
+    "Aed": "50.00 AED",
+    "category": "trending"
+  },
+  {
+    "id": 14,
+    "location": "United States, Chicago",
+    "image": "https://demo.themerox.com/travel-bird/wp-content/uploads/2024/01/centipede-tour.jpg",
+    "days": 3,
+    "hotelQuality": "Centipede Tour – Guided Arizona Desert Tour by ATV",
+    "Aed": "50.00 AED",
+    "category": "popular"
+  }
+]
