@@ -26,7 +26,7 @@ const Testimonials = () => {
   const isSmallScreen = window.innerWidth <= 768;
   return (
     <div>
-      <p className=" font-serif text-3xl font-semibold text-center">
+      <p className=" font-serif text-3xl font-semibold text-center mt-10">
         Customer Reviews
       </p>
       <div className="max-w-full min-w-[350px]  mx-auto h-[400px] flex flex-row items-center overflow-hidden gap-5 lg:gap-10 md:px-16 lg:px-24">

@@ -7,8 +7,8 @@ const RecentPost = () => {
     <div>
       <PostTitle title="Recent Blog Posts" link="/" />
       <div className=" grid grid-cols-1 md:grid-cols-4 gap-4">
-        {recent.slice(0,4).map((recent) => (
-          <TourCard Tour={recent} />
+        {recent.slice(0, 4).map((recent) => (
+          <TourCard link="/recent" Tour={recent} />
         ))}
       </div>
     </div>

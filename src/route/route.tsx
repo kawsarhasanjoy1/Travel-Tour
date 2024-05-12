@@ -5,6 +5,7 @@ import AllTrend from "../componets/Home/AllTrend";
 import About from "../pages/About/About/About";
 import Shop from "../pages/Shop/Shop/Shop";
 import SingleCard from "../pages/Shop/SingleCard/SingleCard";
+import Contact from "../pages/Contact/Contact";
 
 export const router = createBrowserRouter([
   {
@@ -24,11 +25,27 @@ export const router = createBrowserRouter([
         element: <Shop />,
       },
       {
+        path: "/contact",
+        element: <Contact />,
+      },
+      {
         path: "/all-trend",
         element: <AllTrend />,
       },
       {
         path: "/shop/:id",
+        element: <SingleCard />,
+      },
+      {
+        path: "/popular/:id",
+        element: <SingleCard />,
+      },
+      {
+        path: "/trending/:id",
+        element: <SingleCard />,
+      },
+      {
+        path: "/recent/:id",
         element: <SingleCard />,
       },
     ],

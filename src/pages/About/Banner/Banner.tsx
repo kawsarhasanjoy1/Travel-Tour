@@ -1,13 +1,13 @@
 const Banner = () => {
   return (
-    <div className=" ">
+    <div className="">
       <div
         style={{
           backgroundImage: 'url("https://i.ibb.co/YP1pYSz/a.jpg")',
         }}
-        className=" h-screen bg-cover object-cover relative z-[-1]"
+        className=" md:h-screen bg-cover object-cover relative z-[-1]"
       >
-        <div className=" flex flex-col justify-center h-screen text-white px-5 md:px-20 space-y-4">
+        <div className=" flex flex-col justify-center md:h-screen h-[400px] text-white px-5 md:px-20 space-y-4">
           <p className=" text-3xl font-semibold z-10">About Us</p>
           <p className=" z-10 md:w-[70ch]">
             Our hassle-free managed hosting saves you time and money so you can
@@ -16,7 +16,7 @@ const Banner = () => {
         </div>
         <div className=" bg-black h-full w-full absolute top-0  opacity-50"></div>
       </div>
-      <div className=" md:grid grid-cols-12 w-[90%]  md:max-w-6xl gap-10 mx-auto bg-[#ffffff] shadow-2xl -mt-20 rounded-2xl">
+      <div className=" md:grid grid-cols-12 w-[95%]  md:max-w-6xl gap-10 mx-auto bg-[#ffffff] shadow-2xl -mt-20 rounded-2xl">
         <div className="  col-span-4">
           <img
             className=" rounded-2xl relative"

@@ -9,7 +9,7 @@ const Trending = () => {
       <PostTitle title="Trending Packages" link="/" />
       <div className=" grid grid-cols-1 md:grid-cols-4 gap-4">
         {filter.slice(0, 8).map((trend) => (
-          <TourCard Tour={trend} />
+          <TourCard link="/trending" Tour={trend} />
         ))}
       </div>
     </div>

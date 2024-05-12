@@ -1,7 +1,9 @@
 const OurThem = () => {
   return (
     <div>
-      <p className=" text-3xl font-semibold text-center mb-10 mt-16">Our Them</p>
+      <p className=" text-3xl font-semibold text-center mb-10 mt-16">
+        Our Them
+      </p>
       <div className=" md:grid grid-cols-4 space-y-4 md:space-y-0 gap-10 md:mx-10">
         <div>
           <img

@@ -9,7 +9,7 @@ const PopulerPack = () => {
 
       <div className=" grid grid-cols-1 md:grid-cols-4 gap-4">
         {popular.slice(0, 8).map((popular) => (
-          <TourCard Tour={popular} />
+          <TourCard link="/popular" Tour={popular} />
         ))}
       </div>
     </div>

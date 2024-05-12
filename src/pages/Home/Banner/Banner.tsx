@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Banner = () => {
   return (
     <div
-      className="bg-cover h-screen w-full text-white flex justify-center items-center"
+      className="bg-cover md:h-screen h-[400px] w-full text-white flex justify-center items-center"
       style={{
         backgroundImage:
           'url("https://demo.themerox.com/travel-bird/wp-content/uploads/2023/12/header__banner.jpg")',

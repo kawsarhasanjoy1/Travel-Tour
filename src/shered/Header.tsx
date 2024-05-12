@@ -35,7 +35,7 @@ const Header = () => {
               : "   -left-[450px] top-20 md:flex justify-between w-full"
           }`}
         >
-          <ul className="md:flex  items-center mx-auto gap-6 text-slate-900 justify-center">
+          <ul className="md:flex  items-center mx-auto  text-slate-900 justify-center font-bold font-[Roboto]">
             <Link to={"/"}>
               <li className="cursor-pointer  rounded-full  px-6 py-2 text-black hover:bg-sky-100">
                 Home
@@ -55,9 +55,16 @@ const Header = () => {
             <li className="cursor-pointer  rounded-full px-6 py-2 text-black hover:bg-sky-100">
               Blog
             </li>
-            <li className="cursor-pointer  rounded-full px-6 py-2 text-black hover:bg-sky-100">
-              Contact Us
-            </li>
+            <Link to={"/contact"}>
+              <li className="cursor-pointer  rounded-full px-6 py-2 text-black hover:bg-sky-100">
+                Contact Us
+              </li>
+            </Link>
+            <Link to={"/dashboard"}>
+              <li className="cursor-pointer  rounded-full px-6 py-2 text-black hover:bg-sky-100">
+                Dashboard
+              </li>
+            </Link>
           </ul>
           <div>
             <li

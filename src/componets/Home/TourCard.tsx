@@ -20,7 +20,8 @@ const TourCard = ({ Tour, link }: { Tour: TPopular; link?: string }) => {
           <img
             className="
           object-cover 
-          h-full 
+          md:h-full 
+          h-[300px]
           w-full 
           group-hover:scale-110 
           transition
