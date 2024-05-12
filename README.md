@@ -1,2 +1,2 @@
-This website only frontend website ,, you can contact with me form this website , 
+This website only frontend website, this website is full responsive for phone  ,, you can contact with me form this website , 
 this web site travel releted .. user can details in project thats means travel curd ,  then user can visite about page and contact page and shop page 
